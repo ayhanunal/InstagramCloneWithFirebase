@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161045736660",
+    "firebase_url": "https://instagramklonv2.firebaseio.com",
+    "project_id": "instagramklonv2",
+    "storage_bucket": "instagramklonv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161045736660:android:c170d5b851997b05509f41",
+        "android_client_info": {
+          "package_name": "com.ayhanunal.instagramfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161045736660-0je5i68iuc5pon5aubef2homddlc7un0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcgslkFm5wAW0QfYerplN9NTSjSShGN4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161045736660-0je5i68iuc5pon5aubef2homddlc7un0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
